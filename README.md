@@ -1,2 +1,2 @@
-# sistema-relatorio-codeigniter
-Sistema básico de relatório utilizando codeigniter
+# sistema-relatorio-codeigniter-mpdf
+Sistema básico de relatório utilizando codeigniter e mpdf
